@@ -4,7 +4,7 @@ let phases = [
         numbers: 5,
         candidates: [
             {
-                number: 38111,
+                number: '38111',
                 name: 'Capixaba Paulista',
                 party: 'ABC',
                 photos:[
@@ -12,7 +12,7 @@ let phases = [
                 ]
             },
             {
-                number: 77222,
+                number: '77222',
                 name: 'Bahiano Carioca',
                 party: 'DEF',
                 photos:[
@@ -26,7 +26,7 @@ let phases = [
         numbers: 2,
         candidates: [
             {
-                number: 99,
+                number: '99',
                 name: 'Coroa Gaucho',
                 party: 'ABC',
                 vice: 'Paranaense',
@@ -36,7 +36,7 @@ let phases = [
                 ]
             },
             {
-                number: 84,
+                number: '84',
                 name: 'Joao Pernambucano',
                 party: 'GHI',
                 vice: 'Nordestino',
