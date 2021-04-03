@@ -8,7 +8,7 @@ let phases = [
                 name: 'Capixaba Paulista',
                 party: 'ABC',
                 photos:[
-                    {url:'', legend: 'Vereador', small: false}
+                    {url:'01.png', legend: 'Vereador', small: false}
                 ]
             },
             {
@@ -16,7 +16,7 @@ let phases = [
                 name: 'Bahiano Carioca',
                 party: 'DEF',
                 photos:[
-                    {url:'', legend: 'Vereador'}
+                    {url:'02.png', legend: 'Vereador'}
                 ]
             },
         ]
@@ -31,8 +31,8 @@ let phases = [
                 party: 'ABC',
                 vice: 'Paranaense',
                 photos:[
-                    {url:'', legend: 'Prefeito'},
-                    {url:'', legend: 'Vice-Prefeito', small: true}
+                    {url:'01.png', legend: 'Prefeito'},
+                    {url:'02.png', legend: 'Vice-Prefeito', small: true}
                 ]
             },
             {
@@ -41,8 +41,8 @@ let phases = [
                 party: 'GHI',
                 vice: 'Nordestino',
                 photos:[
-                    {url:'', legend: 'Prefeito'},
-                    {url:'', legend: 'Vice-Prefeito', small: true}
+                    {url:'02.png', legend: 'Prefeito'},
+                    {url:'01.png', legend: 'Vice-Prefeito', small: true}
                 ]
             },
         ]
